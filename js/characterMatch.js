@@ -22,7 +22,6 @@ exports.anagramsFor = function(word, listOfWords) {
             answer.push(listOfWords[i])
         }
     }
-
     return answer
 };
 
